@@ -74,23 +74,4 @@ Modify the architecture in the notebook to suit your specific requirements.
 - Training and validation accuracy/loss plots.
 - Example predictions to showcase model performance.
 
-## Customization
-
-You can adapt the code for:
-
-- Different datasets.
-- Advanced architectures like ResNet or VGG.
-- Hyperparameter tuning for optimal performance.
-
-## Contributing
-
-Contributions are welcome! If you find issues or want to add features, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-
-- Inspired by tutorials and resources on deep learning and CNNs.
-- Special thanks to open-source contributors for providing pre-trained models and datasets.
+## https://medium.com/@gunjan87800/enhancing-image-classification-with-cnn-a-step-by-step-guide-58f104d0e046
